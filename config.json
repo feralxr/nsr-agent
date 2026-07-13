@@ -1,0 +1,6 @@
+{
+  "server": "192.168.1.50",
+  "port": 8080,
+  "client_id": "auto",
+  "label": "node_67"
+}
